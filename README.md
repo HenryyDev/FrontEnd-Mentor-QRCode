@@ -13,7 +13,8 @@ Esta é uma solução para o [desafio do componente de QR Code no Frontend Mento
 
 ### Captura de tela
 
-![Captura de tela do componente de QR Code](./screenshot.jpg)
+![image](https://github.com/user-attachments/assets/02a6575a-af46-46f2-a441-9b80af3b31ab)
+
 
 ### Links
 
@@ -22,10 +23,10 @@ Esta é uma solução para o [desafio do componente de QR Code no Frontend Mento
 
 ### Construído com
 
-- Marcação semântica HTML5
+- HTML5
 - CSS personalizável
 - Estrutura de layout flexível
-- Mobile-first
+
 
 ### O que aprendi
 
@@ -33,9 +34,9 @@ Neste projeto, aprendi a criar um componente simples de QR Code com HTML e CSS. 
 
 ## Recursos úteis
 
-Frontend Mentor - Excelente plataforma para praticar e melhorar minhas habilidades em front-end.
+Frontend Mentor - Excelente plataforma para praticar e melhorar habilidades em front-end.
 CSS Tricks - Flexbox - Um ótimo recurso para aprender e dominar o Flexbox.
 
 ## Agradecimentos
 
-Gostaria de agradecer ao Frontend Mentor por disponibilizar este desafio e à comunidade por todo o suporte durante o desenvolvimento deste projeto.
+Gostaria de agradecer a Frontend Mentor por disponibilizar este desafio e à comunidade por todo o suporte durante o desenvolvimento deste projeto.
