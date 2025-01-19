@@ -34,8 +34,8 @@ Neste projeto, aprendi a criar um componente simples de QR Code com HTML e CSS. 
 
 ## Recursos úteis
 
-Frontend Mentor - Excelente plataforma para praticar e melhorar habilidades em front-end.
-CSS Tricks - Flexbox - Um ótimo recurso para aprender e dominar o Flexbox.
+- Frontend Mentor - Excelente plataforma para praticar e melhorar habilidades em front-end.
+- CSS Tricks - Flexbox - Um ótimo recurso para aprender e dominar o Flexbox.
 
 ## Agradecimentos
 
