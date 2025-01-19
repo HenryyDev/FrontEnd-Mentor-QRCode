@@ -19,7 +19,7 @@ Esta é uma solução para o [desafio do componente de QR Code no Frontend Mento
 ### Links
 
 - URL da solução: [Adicionar URL da solução aqui](https://sua-url-da-solucao.com)
-- URL do site ao vivo: [https://henryydev.github.io/FrontEnd-Mentor-tasks/](https://henryydev.github.io/FrontEnd-Mentor-tasks/)
+- URL do site ao vivo: [https://henryydev.github.io/FrontEnd-Mentor-QRCode/](https://henryydev.github.io/FrontEnd-Mentor-QRCode/)
 
 ### Construído com
 
